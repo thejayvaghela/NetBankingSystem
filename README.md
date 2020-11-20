@@ -3,7 +3,9 @@
 TASK 1: Basic Banking System
 
 #GRIPNOV20
- 
+
+YOUTUBE VIDEO: https://lnkd.in/eNNtzKQ
+
 A simple Net Banking System made by Jay S Vaghela using Python, Django and MySQL database.
 
 Hosted on: http://thejayvaghela.pythonanywhere.com/home/
